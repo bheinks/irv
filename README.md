@@ -26,4 +26,4 @@ Knuth Turing Church
 
 `valac --pkg gee-0.8 irv.vala`
 
-_Note: gee-0.8 was provided by the libgee package through my package manager. Your mileage may vary._
+**Note**: gee-0.8 was provided by the libgee package through my package manager. _Your mileage may vary._
